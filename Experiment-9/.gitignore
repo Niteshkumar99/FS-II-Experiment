@@ -1,0 +1,9 @@
+__MACOSX/
+**/.DS_Store
+**/node_modules/
+**/target/
+**/build/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
